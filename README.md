@@ -23,8 +23,15 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </br>
 </br>
-<h2>Frontend Development</h2>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## 🖥️ Frontend Skills
+
+![HTML](https://skillicons.dev/icons?i=html) 
+![CSS](https://skillicons.dev/icons?i=css) 
+![JavaScript](https://skillicons.dev/icons?i=js) 
+![React](https://skillicons.dev/icons?i=react) 
+![Tailwind](https://skillicons.dev/icons?i=tailwind) 
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/mamun web dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mamun web dev" height="30" width="40" /></a>
