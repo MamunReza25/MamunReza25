@@ -57,12 +57,17 @@
 ![Photoshop](https://skillicons.dev/icons?i=photoshop) 
 ![Adobe Illustrator](https://skillicons.dev/icons?i=illustrator)
 
+</br>
+</br>
 
+## 📫 Contact Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/mamun web dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mamun web dev" height="30" width="40" /></a>
-</p>
+[![Email](https://img.shields.io/badge/Email-mamunreza25@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mamunreza25@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mamun%20Reza-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mamunreza25/)
+[![GitHub](https://img.shields.io/badge/GitHub-MamunReza25-black?style=for-the-badge&logo=github)](https://github.com/MamunReza25)
+[![Twitter](https://img.shields.io/badge/Twitter-@MamunReza25-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/MamunReza25)
+[![Facebook](https://img.shields.io/badge/Facebook-MamunReza25-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=61578170814305)
+[![Instagram](https://img.shields.io/badge/Instagram-@MamunReza25-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/MamunReza25/)
 
 
 
