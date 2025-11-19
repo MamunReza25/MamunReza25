@@ -30,7 +30,28 @@
 ![JavaScript](https://skillicons.dev/icons?i=js) 
 ![React](https://skillicons.dev/icons?i=react) 
 ![Tailwind](https://skillicons.dev/icons?i=tailwind) 
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+</br>
+</br>
+## 🗄️ Backend Skills
+
+![Node.js](https://skillicons.dev/icons?i=nodejs) 
+![Express](https://skillicons.dev/icons?i=express) 
+![MongoDB](https://skillicons.dev/icons?i=mongodb) 
+![Firebase](https://skillicons.dev/icons?i=firebase) 
+![Postman](https://skillicons.dev/icons?i=postman) 
+![JWT](https://skillicons.dev/icons?i=jwt)
+</br>
+</br>
+## 🛠️ Tech & Tools
+
+![VS Code](https://skillicons.dev/icons?i=vscode) 
+![Git](https://skillicons.dev/icons?i=git) 
+![GitHub](https://skillicons.dev/icons?i=github) 
+![NPM](https://skillicons.dev/icons?i=npm) 
+![Yarn](https://skillicons.dev/icons?i=yarn) 
+![Docker](https://skillicons.dev/icons?i=docker)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
