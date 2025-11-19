@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mamun Reza</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mamunreza25&label=Profile%20views&color=0e75b6&style=flat" alt="mamunreza25" /> </p>
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+
 - 💬 Ask me about **js,react**
 
 <h3 align="left">Connect with me:</h3>
@@ -19,4 +16,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mamunreza25&show_icons=true&locale=en" alt="mamunreza25" /></p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mamunreza25&label=Profile%20views&color=0e75b6&style=flat" alt="mamunreza25" /> </p>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mamunreza25&" alt="mamunreza25" /></p>
