@@ -29,7 +29,8 @@
 
 
 <h1>🐍 A Snake Eating my Contributions Graph</h1>
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<p align="center">
+  <img src="https://github.com/mamunreza25/mamunreza25/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mamunreza25&" alt="mamunreza25" /></p>
