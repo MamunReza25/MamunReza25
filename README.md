@@ -50,6 +50,13 @@
 ![NPM](https://skillicons.dev/icons?i=npm) 
 ![Yarn](https://skillicons.dev/icons?i=yarn) 
 ![Docker](https://skillicons.dev/icons?i=docker)
+</br>
+</br>
+## 🎨 Design Tools
+
+![Figma](https://skillicons.dev/icons?i=figma) 
+![Photoshop](https://skillicons.dev/icons?i=photoshop) 
+![Adobe Illustrator](https://skillicons.dev/icons?i=illustrator)
 
 
 
