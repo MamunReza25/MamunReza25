@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 
+
 - 💬 Ask me about **js,react**
 
 <h3 align="left">Connect with me:</h3>
@@ -14,9 +15,13 @@
 
 
 <h3>💻 GitHub Profile Stats</h> </br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mamunreza25&show_icons=true&locale=en&layout=compact" alt="mamunreza25"  height="230px" /></p> </br>
+<div>
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=mamunreza25&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mamunreza25' Github Stats">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mamunreza25&show_icons=true&locale=en" alt="mamunreza25" height="230px" /></p>
+</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mamunreza25&show_icons=true&locale=en&layout=compact" alt="mamunreza25"  - /></p> </br>
+
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mamunreza25&label=Profile%20views&color=0e75b6&style=flat" alt="mamunreza25" height="230px" /> </p>
 
