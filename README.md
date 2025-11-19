@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mamun Reza</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+## 👨‍💻 About Me
+
+💻 I’m a Frontend Developer focused on building clean, responsive UIs with React and Tailwind CSS.  
+🗄️ I have a primary understanding of backend using Node.js, Express, and MongoDB.  
+🔐 I can work with basic authentication and Firebase for user login and protection.  
+🎨 I enjoy turning ideas into functional web apps with a smooth user experience.  
+🚀 Right now I’m learning and improving step by step to become a complete full-stack developer.
+
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
 - 💬 Ask me about **js,react**
