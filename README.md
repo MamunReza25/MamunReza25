@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mamun Reza</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+<p align="center">
+  <img src="https://github.com/MamunReza25/MamunReza25/blob/main/2.png?raw=true" alt="Banner" />
+</p>
+
 ## 👨‍💻 About Me
 
 💻 I’m a Frontend Developer focused on building clean, responsive UIs with React and Tailwind CSS.  
