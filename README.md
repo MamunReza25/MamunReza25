@@ -28,12 +28,17 @@
 
 ## 👨‍💻 About Me
 
-💻 I’m a Frontend Developer focused on building clean, responsive UIs with React and Tailwind CSS.  
-🗄️ I have a primary understanding of backend using Node.js, Express, and MongoDB.  
-🔐 I can work with basic authentication and Firebase for user login and protection.  
-🎨 I enjoy turning ideas into functional web apps with a smooth user experience.  
-🚀 Right now I’m learning and improving step by step to become a complete full-stack developer.
+## About Me
 
+💻 I’m a **Frontend Developer** focused on building **clean, responsive UIs** with **React**, **Next.js**, and **Tailwind CSS**.  
+
+🗄️ I have a primary understanding of **backend development** using **Node.js**, **Express.js**, and **MongoDB**.  
+
+🔐 I can work with **basic authentication** and **Firebase** for user login and protection.  
+
+🎨 I enjoy turning **ideas into functional web apps** with a smooth and interactive user experience.  
+
+🚀 I have completed the **Programming Hero course** and built several projects, continuously learning step by step to become a **full-stack developer**.
 
 <img alt="Night Coding" src="https://github.com/MamunReza25/MamunReza25/blob/main/Night-Coding.gif?raw=true" align="right"/>
 
