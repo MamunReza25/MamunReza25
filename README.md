@@ -77,7 +77,7 @@
 
 </br>
 </br>
-## 🗄️ Backend Skills
+<h1>## 🗄️ Backend Skills</h1>
 
 ![Node.js](https://skillicons.dev/icons?i=nodejs) 
 ![Express](https://skillicons.dev/icons?i=express) 
@@ -86,7 +86,7 @@
 
 </br>
 </br>
-## 🛠️ Tech & Tools
+<h1>## 🛠️ Tech & Tools</h1>
 
 ![VS Code](https://skillicons.dev/icons?i=vscode) 
 ![Git](https://skillicons.dev/icons?i=git) 
@@ -95,7 +95,7 @@
 
 </br>
 </br>
-## 🎨 Design Tools
+<h1>## 🎨 Design Tools</h1>
 
 ![Figma](https://skillicons.dev/icons?i=figma) 
 ![Photoshop](https://skillicons.dev/icons?i=photoshop) 
