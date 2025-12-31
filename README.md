@@ -25,9 +25,10 @@
 </p>
 
 </p>
-
-## 👨‍💻 About Me
-
+</br>
+</br>
+ <h1> 👨‍💻 About Me</h1>
+</br>
 💻 I’m a **Frontend Developer** focused on building **clean, responsive UIs** with **React**, **Next.js**, and **Tailwind CSS**.  
 
 🗄️ I have a primary understanding of **backend development** using **Node.js**, **Express.js**, and **MongoDB**.  
@@ -37,13 +38,27 @@
 🎨 I enjoy turning **ideas into functional web apps** with a smooth and interactive user experience.  
 
 🚀 I have completed the **Programming Hero course** and built several projects, continuously learning step by step to become a **full-stack developer**.
-
-<img alt="Night Coding" src="https://github.com/MamunReza25/MamunReza25/blob/main/Night-Coding.gif?raw=true" align="right"/>
-
-
-
 - 💬 Ask me about **js,react**
-- <h1>Skills</h1>
+
+</br></br>
+<h1>Current Activities</h1>
+
+<table>
+  <tr>
+    <td style="padding-right:20px; vertical-align: middle;">
+🌱 I’m currently learning Next.js<br>
+💻 Working on a Tourism Website project<br>
+🔭 Exploring React + Tailwind CSS integrations
+    </td>
+    <td style="vertical-align: middle;">
+<img alt="Night Coding" src="https://github.com/MamunReza25/MamunReza25/blob/main/Night-Coding.gif?raw=true" width="250"/>
+    </td>
+  </tr>
+</table>
+
+
+
+
 </br>
 </br>
 <h2>Programming Languages</h2>
