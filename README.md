@@ -2,6 +2,28 @@
 
 <p align="center">
   <img src="https://github.com/MamunReza25/MamunReza25/blob/main/2.png?raw=true" alt="Banner" />
+	<p align="center">
+  <!-- GitHub -->
+  <a href="https://github.com/MamunReza25" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Connect-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/mamun-reza-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/profile.php?id=61578170814305" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- Gmail -->
+  <a href="mailto:mamunreza2024@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 </p>
 
 ## 👨‍💻 About Me
