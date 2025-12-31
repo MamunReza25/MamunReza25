@@ -129,38 +129,7 @@
 </p>
 
 
-<div align="center">
-  <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" width="100px" alt="GitHub Readme Stats" />
-  <h1 style="font-size: 28px; margin: 10px 0;">GitHub Readme Stats</h1>
-  <p>Get dynamically generated GitHub stats on your READMEs!</p>
-</div>
 
-<p align="center">
-  <!-- Tests Passing (optional, remove if you don't use GitHub Actions) -->
-  <a href="https://github.com/MamunReza25/actions">
-    <img alt="Tests Passing" src="https://github.com/MamunReza25/workflows/Test/badge.svg" />
-  </a>
-
-  <!-- GitHub Contributors -->
-  <a href="https://github.com/MamunReza25/graphs/contributors">
-    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/MamunReza25" />
-  </a>
-
-  <!-- Issues -->
-  <a href="https://github.com/MamunReza25/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/MamunReza25?color=0088ff" />
-  </a>
-
-  <!-- Pull Requests -->
-  <a href="https://github.com/MamunReza25/pulls">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/MamunReza25?color=0088ff" />
-  </a>
-
-  <!-- OpenSSF Scorecard -->
-  <a href="https://securityscorecards.dev/viewer/?uri=github.com/MamunReza25">
-    <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/MamunReza25/badge" />
-  </a>
-</p>
 
 
 
