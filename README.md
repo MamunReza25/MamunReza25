@@ -27,6 +27,11 @@
 </p>
 </br>
 </br>
+ <h1> 👨‍💻 Daily streak</h1>
+ </br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mamunreza25&" alt="mamunreza25" /></p>
+</br>
+</br>
  <h1> 👨‍💻 About Me</h1>
 </br>
 💻 I’m a **Frontend Developer** focused on building **clean, responsive UIs** with **React**, **Next.js**, and **Tailwind CSS**.  
@@ -156,7 +161,7 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mamunreza25&" alt="mamunreza25" /></p>
+
 
 
 <!-- GETTING STARTED -->
