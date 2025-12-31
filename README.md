@@ -128,7 +128,31 @@
   </a>
 </p>
 
+<div align="center">
+  <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" width="100px" alt="GitHub Readme Stats" />
+  <h1 style="font-size: 28px; margin: 10px 0;">GitHub Readme Stats</h1>
+  <p>Get dynamically generated GitHub stats on your READMEs!</p>
+</div>
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats/actions">
+    <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
+    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
+  </a>
+  <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
+    <img alt="Tests Coverage" src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+  </a>
+  <a href="https://securityscorecards.dev/viewer/?uri=github.com/anuraghazra/github-readme-stats">
+    <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/anuraghazra/github-readme-stats/badge" />
+  </a>
 <h1>💻 GitHub Profile Stats</h1> </br> </br>
 <div>
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=mamunreza25&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mamunreza25' Github Stats">
