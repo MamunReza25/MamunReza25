@@ -73,6 +73,8 @@
 ![JavaScript](https://skillicons.dev/icons?i=js) 
 ![React](https://skillicons.dev/icons?i=react) 
 ![Tailwind](https://skillicons.dev/icons?i=tailwind) 
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50" />
+
 </br>
 </br>
 ## 🗄️ Backend Skills
