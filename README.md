@@ -128,6 +128,7 @@
   </a>
 </p>
 
+
 <div align="center">
   <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" width="100px" alt="GitHub Readme Stats" />
   <h1 style="font-size: 28px; margin: 10px 0;">GitHub Readme Stats</h1>
@@ -135,33 +136,46 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/MamunReza25/github-readme-stats/actions">
-    <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+  <!-- Tests Passing (optional, remove if you don't use GitHub Actions) -->
+  <a href="https://github.com/MamunReza25/actions">
+    <img alt="Tests Passing" src="https://github.com/MamunReza25/workflows/Test/badge.svg" />
   </a>
-  <a href="https://github.com/MamunReza25/github-readme-stats/graphs/contributors">
-    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
-  </a>
-  <a href="https://codecov.io/gh/MamunReza25/github-readme-stats">
-    <img alt="Tests Coverage" src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
-  </a>
-  <a href="https://github.com/MamunReza25/github-readme-stats/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
-  </a>
-  <a href="https://github.com/MamunReza25/github-readme-stats/pulls">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
-  </a>
-  <a href="https://securityscorecards.dev/viewer/?uri=github.com/MamunReza25/github-readme-stats">
-    <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/anuraghazra/github-readme-stats/badge" />
-  </a>
-<h1>💻 GitHub Profile Stats</h1> </br> </br>
-<div>
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=mamunreza25&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mamunreza25' Github Stats">
 
-</div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mamunreza25&show_icons=true&locale=en&layout=compact" alt="mamunreza25"  - /></p> </br>
+  <!-- GitHub Contributors -->
+  <a href="https://github.com/MamunReza25/graphs/contributors">
+    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/MamunReza25" />
+  </a>
+
+  <!-- Issues -->
+  <a href="https://github.com/MamunReza25/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/MamunReza25?color=0088ff" />
+  </a>
+
+  <!-- Pull Requests -->
+  <a href="https://github.com/MamunReza25/pulls">
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/MamunReza25?color=0088ff" />
+  </a>
+
+  <!-- OpenSSF Scorecard -->
+  <a href="https://securityscorecards.dev/viewer/?uri=github.com/MamunReza25">
+    <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/MamunReza25/badge" />
+  </a>
+</p>
 
 
 
+<h2 align="center">💻 GitHub Profile Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MamunReza25&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="MamunReza25 GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MamunReza25&show_icons=true&locale=en&layout=compact" alt="MamunReza25 Top Languages" />
+</p>
+
+
+	
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mamunreza25&label=Profile%20views&color=0e75b6&style=flat" alt="mamunreza25" height="230px" /> </p>
 
 
