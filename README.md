@@ -83,8 +83,7 @@
 ![Express](https://skillicons.dev/icons?i=express) 
 ![MongoDB](https://skillicons.dev/icons?i=mongodb) 
 ![Firebase](https://skillicons.dev/icons?i=firebase) 
-![Postman](https://skillicons.dev/icons?i=postman) 
-![JWT](https://skillicons.dev/icons?i=jwt)
+
 </br>
 </br>
 ## 🛠️ Tech & Tools
