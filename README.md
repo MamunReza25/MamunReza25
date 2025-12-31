@@ -106,13 +106,27 @@
 
 ## 📫 Contact Me
 
-[![Email](https://img.shields.io/badge/Email-mamunreza25@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mamunreza25@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mamun%20Reza-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mamunreza25/)
-[![GitHub](https://img.shields.io/badge/GitHub-MamunReza25-black?style=for-the-badge&logo=github)](https://github.com/MamunReza25)
-[![Twitter](https://img.shields.io/badge/Twitter-@MamunReza25-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/MamunReza25)
-[![Facebook](https://img.shields.io/badge/Facebook-MamunReza25-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=61578170814305)
-[![Instagram](https://img.shields.io/badge/Instagram-@MamunReza25-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/MamunReza25/)
-
+<p align="center">
+  <!-- GitHub -->
+  <a href="https://github.com/MamunReza25" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Connect-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/mamun-reza-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/profile.php?id=61578170814305" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- Gmail -->
+  <a href="mailto:mamunreza2024@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 
 <h3>💻 GitHub Profile Stats</h> </br> </br>
