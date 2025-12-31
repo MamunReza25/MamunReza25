@@ -28,8 +28,6 @@
 
 ## 👨‍💻 About Me
 
-## About Me
-
 💻 I’m a **Frontend Developer** focused on building **clean, responsive UIs** with **React**, **Next.js**, and **Tailwind CSS**.  
 
 🗄️ I have a primary understanding of **backend development** using **Node.js**, **Express.js**, and **MongoDB**.  
